@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "League Spartan";
+    src: url(./fonts/static-ls/LeagueSpartan-Regular.ttf);
+}
+
+.header {
+    text-align: center;
+    font-family: "League Spartan", Verdana, Tahoma, sans-serif;
+}
+
+body {
+    background: scroll;
+    background-color: wheat;
+} 
+
+.cake {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+
+.lists-of-recipes#text {
+    text-align: center;
+    font-family: "League Spartan", Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+div#listheader {
+    font-family: "League Spartan", Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+
+}
